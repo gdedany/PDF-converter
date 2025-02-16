@@ -31,7 +31,7 @@ A **fully transparent**, client-side web app to merge images and PDFs into a sin
 
 This app is distributed as pre-built files. To host it locally or on a server:
 
-1. Download the `dist` folder.
+1. Download the `docs` folder.
 2. Serve the files using a static server:
    ```bash
    npx serve dist
