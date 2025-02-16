@@ -2,7 +2,7 @@
 
 A **fully transparent**, client-side web app to merge images and PDFs into a single PDF. No data is logged, and everything happens in your browser—no backend involved.
 
-![Demo](https://placehold.co/600x400?text=Demo+Image+Here)
+![Demo](https://github.com/gdedany/PDF-converter/blob/main/demo.png?raw=true)
 
 ---
 
